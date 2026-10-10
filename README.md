@@ -1,1 +1,1 @@
-# auto-clicker-for-cookie-clicker
+index.html
